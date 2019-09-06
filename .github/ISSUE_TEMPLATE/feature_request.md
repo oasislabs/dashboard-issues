@@ -1,3 +1,8 @@
+---
+name: 💡 Feature request
+about: Tell us about new features you'd like to see!
+---
+
 _A clear and concise description of what the feature is._
 
 ## Details
