@@ -1,3 +1,8 @@
+---
+name: Bug report
+about: File a bug report to help us improve the Oasis Developer Dashboard.
+---
+
 _A clear and concise description of what the bug is._
 
 ## Details
